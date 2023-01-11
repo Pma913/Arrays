@@ -16,3 +16,10 @@ console.log(luckNumbers);
 // This method will shift all the elements to the left, the number of spots specified
 cats.shift(1);
 console.log(cats);
+
+// My understanding so far on index positions is that they start on the 
+// left with 0 and then increase be one with each position after that.
+// I know that you can call on the position number and it can pull up or omit a 
+// log of the element in that position. Example is my first array call
+// with the `pop` method. I called on Index 3 and the log showed all but
+// the specified index.
